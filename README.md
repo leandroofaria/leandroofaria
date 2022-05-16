@@ -2,7 +2,7 @@
  <h1> Oi! Meu nome é Leandro Gabriel Faria! </h1> 
  <h3> Estou cursando 'Sistemas de Informação' na Puc-Pr. <br>
  Atualmente estou aprendendo Python, html e css. </h3>
- <br>
+ <hr>
 </div>
 
 
