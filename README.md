@@ -7,9 +7,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/leandroogf">
-  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=leandroogf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroogf&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/leandroofaria">
+  <img width="58%" src="https://github-readme-stats.vercel.app/api?username=leandroofaria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroofaria&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
   <div style="display: inline_block"><br>
