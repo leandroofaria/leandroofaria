@@ -1,7 +1,7 @@
 <div align="center"> 
  <h1> Bem vindo! </h1> 
  <h3> Estou cursando 'Sistemas de Informação' na Puc-Pr. <br>
- Atualmente estou aprendendo Python, html e css. </h3>
+ Atualmente estou aprendendo Java, HTML, CSS, Javascript e PHP. </h3>
  <hr>
 </div>
 
